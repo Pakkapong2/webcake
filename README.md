@@ -19,3 +19,9 @@
 ## Member
 
  1. นายภัคคพงศ์ มีสวนนิล
+
+```mermaid
+graph LR
+
+A(Home) --> B(Product)
+A -->C(About) 
